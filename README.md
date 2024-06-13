@@ -1,4 +1,3 @@
-```markdown
 # Markdown to PowerPoint Converter
 
 This Python application converts Markdown text into a PowerPoint presentation, allowing users to incorporate custom background images and formatted text into slides.
